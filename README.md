@@ -7,7 +7,7 @@ Noita Minus mod for Noita.
 - [x] Smaller biome sizes
 - [x] Less starting HP
 - [x] Orb and health ups add less max HP
-- [ ] Lower prices in shops
+- [x] Lower prices in shops
 - [ ] Higher wand, orb, flask spawn rates
 - [ ] Increase movement speed slightly
 - [ ] Drain dark cave
