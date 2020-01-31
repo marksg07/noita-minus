@@ -21,5 +21,3 @@ Noita Minus mod for Noita.
 # TODO/bugs
 
 make biome sizes smaller due to one-way nature? atm you have to traverse through the same or more amount of level to get to fungal/dcave/...
-
-Fix spawn rates further for more biomes via adding to wang_tiles; this has been done for fungal but there are more biomes w/ capped wand/potion spawn rates.
