@@ -9,3 +9,5 @@ for i, biome in ipairs(replace_biomes) do
 end
 
 ModLuaFileAppend("data/scripts/biome_scripts.lua", "mods/noita-minus/scripts/biome_scripts_fixspawns.lua")
+
+ModLuaFileAppend("data/scripts/biomes/mountain/mountain_hall.lua", "mods/noita-minus/scripts/mountain_hall_addegg.lua")

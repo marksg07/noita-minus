@@ -11,7 +11,7 @@ Noita Minus mod for Noita.
 - [x] Lower prices in shops
 - [x] Higher wand, HP-up, chest, flask spawn rates
 - [x] Increase movement speed and acceleration somewhat (currently 30%)
-- [ ] Drain dark cave
+- [x] Drain dark cave
 - [ ] Move worm egg closer to spawn
 - [ ] Lower glass cannon HP
 - [x] Make biomes one-way
