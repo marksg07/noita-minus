@@ -1,0 +1,5 @@
+<Entity name="player_stats" serialize="0">
+	<PlayerStatsComponent
+		max_hp="2.4">
+	</PlayerStatsComponent>
+</Entity>

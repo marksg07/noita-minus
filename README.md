@@ -4,7 +4,7 @@ Noita Minus mod for Noita.
 # Features
 
 - [x] Halve biome sizes
-- [ ] Halve starting HP
+- [x] Halve starting HP
 - [ ] Halve orb and health ups
 - [ ] Halve prices in shops
 - [ ] Double wand, orb, flask spawn rates
