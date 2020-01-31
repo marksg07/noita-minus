@@ -3,11 +3,12 @@ Noita Minus mod for Noita.
 
 # Features
 
-- [x] Halve biome sizes
-- [x] Halve starting HP
-- [ ] Halve orb and health ups
-- [ ] Halve prices in shops
-- [ ] Double wand, orb, flask spawn rates
+* NOTE: In most cases of "larger" and "smaller", the change is a factor of 3/5 (for smaller) or 5/3 (for larger). This might change.
+- [x] Smaller biome sizes
+- [x] Less starting HP
+- [x] Orb and health ups add less max HP
+- [ ] Lower prices in shops
+- [ ] Higher wand, orb, flask spawn rates
 - [ ] Increase movement speed slightly
 - [ ] Drain dark cave
 - [ ] Move worm egg closer to spawn
