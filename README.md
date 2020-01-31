@@ -3,7 +3,7 @@ Noita Minus mod for Noita.
 
 # Features
 
-- [ ] Halve biome sizes
+- [x] Halve biome sizes
 - [ ] Halve starting HP
 - [ ] Halve orb and health ups
 - [ ] Halve prices in shops
@@ -12,5 +12,6 @@ Noita Minus mod for Noita.
 - [ ] Drain dark cave
 - [ ] Move worm egg closer to spawn
 - [ ] Lower glass cannon HP
-- [ ] Make biomes one-way
-- [ ] Put temple portals under everything
+- [x] Make biomes one-way
+- [x] Put temple portals under everything
+- [ ] Re-add interesting deleted biomes, i.e. temple
