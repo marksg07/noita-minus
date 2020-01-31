@@ -22,5 +22,3 @@ Noita Minus mod for Noita.
 make biome sizes smaller due to one-way nature? atm you have to traverse through the same or more amount of level to get to fungal/dcave/...
 
 possibly fix spawn rates; add more spawn points to wand-rich biomes like fungal?
-
-some teleports broken; from jungle to temple and from boss to death room
